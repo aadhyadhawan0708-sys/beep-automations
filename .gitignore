@@ -1,0 +1,10 @@
+# Ignore everything in Downloads
+*
+
+# Except git essentials
+!.gitignore
+!README.md
+
+# Except the automations folder and all its contents
+!automations/
+!automations/**
